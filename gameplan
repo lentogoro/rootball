@@ -1,0 +1,69 @@
+#Local cloud server so I can work on any computer!
+
+
+
+	https://ubuntu.com/tutorials/install-and-configure-samba#1-overview
+
+
+
+#Scan Photos to Database
+
+
+
+	# Batch scan
+
+
+
+	# Process/enhance photos
+
+
+
+# Present window with picture and names to tag
+
+
+
+	?Do each as a "post" and link Date/Time, location, and who?
+
+
+
+	# Class Tag photo
+
+
+
+		- Func - grab next photo and present
+
+
+
+		- Func - Select name(s) and tag to dict/database
+
+
+
+#WebApp showing family tree and navigate to different nodes/branches
+
+
+
+	#Django dev
+
+
+
+		- Home tab with "tree/root"
+
+	
+
+		- Feed tab with chronological posts
+
+
+
+		- Narrative Tab - the story book
+
+
+
+		- Search tab for filtering
+
+
+
+		- View individual post ability to go to next, update (with permission)
+
+
+
+		- Post tab with ability to upload narrative, interview, etc
